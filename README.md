@@ -22,7 +22,6 @@ Interesado en desarrollo backend, cloud y análisis de datos
 | **Bio Scan Gym** | App móvil con MediaPipe y visión por computadora para analizar la postura durante el ejercicio. 🥇 Ganador etapa local InnovaTecNM. |
 | **Urbi.AI** | Proyecto de IA — 🥉 3er lugar en Google MexaTh0n 2025. |
 | **Kimal Search** | App de IA desarrollada para el NASA Space Apps Challenge 2025. |
-| **App de gestión para bomberos** | Web/móvil para registrar estado de equipo (extintores): capacidad, fotos, ubicación. Diseño de BD + desarrollo full stack + deploy. |
 | **Aplicación de Transporte Urbano** | App móvil para consulta de rutas de transporte. |
  
 ---
