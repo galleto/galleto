@@ -9,7 +9,7 @@ Interesado en desarrollo backend, cloud y análisis de datos
 ### 🧑‍💻 Sobre mí
  
 - 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** — TecNM Saltillo
-- ☁️ Actualmente en camino a mi certificación **AWS**, explorando Microsoft Azure y Google claud
+- ☁️ Actualmente en camino a mi certificación **AWS**, explorando Microsoft Azure y Google cloud 
 - 🛠️ Experiencia real administrando bases de datos en producción y desarrollando aplicaciones full stack
 - 📊 Me interesa el análisis de datos con **Power BI** y las tecnologías en la nube
 - 🎮 Fuera del código: cocina, videojuegos y aprender herramientas nuevas
