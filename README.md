@@ -1,47 +1,39 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Gael+%F0%9F%91%8B;Estudiante+de+ISC+%7C+TecNM+Saltillo;Backend+%7C+Cloud+%7C+Datos" alt="Typing SVG" />
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=galleto&style=for-the-badge&color=2EA3F7&label=VISITAS+AL+PERFIL)
  
 </div>
 <br>
-<table align="center" border="0">
-<tr>
-<td width="60%" valign="top">
-### 🧑‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
  
-```yaml
-nombre: Gael Adrian Godina Guerrero
-estudios: Ingeniería en Sistemas Computacionales
-escuela: TecNM Campus Saltillo
-ubicacion: Saltillo, Coahuila, México
-enfoque: Backend · Cloud · Análisis de datos
-```
- 
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** — TecNM Campus Saltillo
+- 📍 Saltillo, Coahuila, México
 - ☁️ En camino a mi certificación **AWS**, explorando **Azure** y **Google Cloud**
 - 🛠️ Experiencia real administrando bases de datos en producción y desarrollo full stack
 - 📊 Me interesa el análisis de datos con **Power BI**
 - 🎮 Fuera del código: cocina, videojuegos y aprender herramientas nuevas
-</td>
-<td width="40%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=galleto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-</td>
-</tr>
-</table>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=galleto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+</div>
 <br>
 ## 🚀 Proyectos destacados
  
-<table align="center" border="0" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 **🏋️ Bio Scan Gym**
+ 
 App móvil con MediaPipe y visión por computadora para analizar la postura durante el ejercicio.
+ 
 🥇 Ganador etapa local InnovaTecNM
  
 </td>
 <td width="50%" valign="top">
 **🌆 Urbi.AI**
+ 
 Proyecto de inteligencia artificial urbana.
+ 
 🥉 3er lugar — Google MexaTh0n 2025
  
 </td>
@@ -49,11 +41,13 @@ Proyecto de inteligencia artificial urbana.
 <tr>
 <td width="50%" valign="top">
 **🔭 Kimal Search**
+ 
 App de IA desarrollada para el NASA Space Apps Challenge 2025
  
 </td>
 <td width="50%" valign="top">
 **🚌 App de Transporte Urbano**
+ 
 App móvil para consulta de rutas de transporte público
  
 </td>
@@ -64,36 +58,25 @@ App móvil para consulta de rutas de transporte público
  
 <div align="center">
 **Lenguajes**
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php" />
- 
-<br><br>
- 
 **Bases de datos & Cloud**
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=mysql,azure" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
- 
-<br><br>
- 
 **Web & Mobile**
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
- 
-<br><br>
- 
 **IA, Datos & Herramientas**
-<br>
+ 
 <img src="https://skillicons.dev/icons?i=opencv,git,linux,unity" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
- 
 </div>
 <br>
 ## 🏆 Logros
  
-<div align="center">
 | 🏅 | Logro |
 |:---:|---|
 | 🥉 | **3er lugar** — Google MexaTh0n 2025 (CDMX, sede Google) con *Urbi.AI* |
@@ -103,7 +86,6 @@ App móvil para consulta de rutas de transporte público
 | 🚀 | Participante — NASA Space Apps Challenge Saltillo 2025 |
 | 🏁 | Participante — HackMTY, Tecnológico de Monterrey |
  
-</div>
 <br>
 ## 📈 Actividad
  
