@@ -18,7 +18,6 @@ Interesado en desarrollo backend, cloud y análisis de datos
 - 🛠️ Experiencia real administrando bases de datos en producción y desarrollando aplicaciones full stack
 - 📊 Me interesa el análisis de datos con **Power BI** y las tecnologías en la nube
 - 🎮 Fuera del código: cocina, videojuegos y aprender herramientas nuevas
-- 🤝 Miembro del club de programación competitiva y del club AWS en TecNM Saltillo
 
 ---
 
